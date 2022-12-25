@@ -1,0 +1,8 @@
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\bin\Debug\primeNumber-.exe.config
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\bin\Debug\primeNumber-.exe
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\bin\Debug\primeNumber-.pdb
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\obj\Debug\primeNumber-.csproj.AssemblyReference.cache
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\obj\Debug\primeNumber-.csproj.SuggestedBindingRedirects.cache
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\obj\Debug\primeNumber-.csproj.CoreCompileInputs.cache
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\obj\Debug\primeNumber-.exe
+C:\Users\rokia_movdzm7\source\repos\primeNumber-\obj\Debug\primeNumber-.pdb
