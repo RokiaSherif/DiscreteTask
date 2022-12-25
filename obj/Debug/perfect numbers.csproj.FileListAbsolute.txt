@@ -1,0 +1,8 @@
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\bin\Debug\perfect numbers.exe.config
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\bin\Debug\perfect numbers.exe
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\bin\Debug\perfect numbers.pdb
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\obj\Debug\perfect numbers.csproj.AssemblyReference.cache
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\obj\Debug\perfect numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\obj\Debug\perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\obj\Debug\perfect numbers.exe
+C:\Users\rokia_movdzm7\source\repos\perfect numbers\obj\Debug\perfect numbers.pdb
